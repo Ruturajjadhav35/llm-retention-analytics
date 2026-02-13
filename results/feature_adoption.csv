@@ -1,0 +1,10 @@
+feature_used,users_using_feature,adoption_rate
+basic_chat,2639,99.25
+document_analysis,2629,98.87
+code_generation,2620,98.53
+image_generation,2582,97.1
+file_upload,2564,96.43
+api_access,2472,92.97
+advanced_prompting,2416,90.86
+voice_input,2079,78.19
+team_collaboration,2060,77.47

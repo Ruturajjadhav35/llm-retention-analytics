@@ -1,0 +1,8 @@
+event_type,event_count,unique_users,percentage
+chat_message,455111,2645,30.34
+api_call,388013,2591,25.87
+code_generation,217504,2607,14.5
+file_upload,186157,2605,12.41
+document_analysis,166293,2617,11.09
+image_generation,56931,2520,3.8
+feature_exploration,29991,2388,2.0
